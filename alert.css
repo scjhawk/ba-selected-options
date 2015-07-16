@@ -1,0 +1,11 @@
+#myDialogId .myButtonClass {
+    padding:3px;
+    font-size:20px;
+    width:100px;
+}
+#myDialogId .ok_button {
+    color:#2F2;
+}
+#myDialogId .cancel_button {
+    color:#F88;
+}
